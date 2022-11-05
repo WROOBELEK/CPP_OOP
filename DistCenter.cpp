@@ -1,9 +1,4 @@
-﻿////////////////////
-// Piotr Wróbel 120B
-////////////////////
 // DistCenter . cpp
-////////////////////
-
 #include <iostream>
 #include "inne.h"
 #include "generatory.h"
